@@ -6,7 +6,7 @@ class Fpdf extends CI_Controller {
 	 * Example: FPDF 
 	 *
 	 * Documentation: 
-	 * http://www.fpdf.org/ > Manual
+	 * http://www.fpdf.org/ > Maanual
 	 *
 	 */
 	public function index() {	
