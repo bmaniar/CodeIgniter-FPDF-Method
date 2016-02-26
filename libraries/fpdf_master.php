@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Fpdf_gen {
+class Fpdf_master {
 		
 	public function __construct() {
 		
