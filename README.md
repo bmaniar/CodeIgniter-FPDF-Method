@@ -2,7 +2,7 @@
 
 FPDF
 
-PDF generation with the FPDF library
+Working and Completed PDF generation with the FPDF library
 
 Hello Everyone,
 
@@ -12,4 +12,8 @@ DOCUMENTATION:
 For FPDF: http://www.fpdf.org/manual
 
 INSTALLATION:
-Copy the given files to respective same directories of your Codeigniter folder
+Copy the given files to respective same directories of your Codeigniter folder(inside application folder)
+For example
+Controller to application/controller
+Library to application/library
+etc
